@@ -116,12 +116,10 @@ SchoolHoliday: Indicates if the (Store, Date) was affected by the closure of pub
 
 Code and Resources Used:
 
-Python Version: 3.7 Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle Sources: https://towardsdatascience.com/confusion-matrix-for-your-multi-class-machine-learning-model-ff9aa3bf7826
-
-https://opendatascience.com/how-does-the-random-forest-algorithm-work-in-machine-learning/
+Python Version: 3.7 Packages: pandas, numpy, matplotlib, seaborn, 
 
 Google Colab
-
+Facebook Prophet : https://facebook.github.io/prophet/
 https://towardsdatascience.com/
 
 https://www.udemy.com/
